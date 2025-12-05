@@ -1,0 +1,6 @@
+ProyectoAutos/             ← raíz del repo
+│ README.md                ← descripción del proyecto
+│ data/                    ← carpeta con los datos (.csv)
+│ notebooks/               ← carpeta con tu notebook principal (.ipynb)
+│ scripts/                 ← (opcional) scripts de análisis o limpieza
+└───figures/               ← (opcional) gráficos exportados (.png, .jpg)
